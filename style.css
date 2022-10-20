@@ -180,6 +180,14 @@ label #cancel{
 .contact-box h1{
   font-size: 100px;
 }
+
+table tr td a{
+  color: white;
+}
+
+table tr td a:hover{
+  color: var(--red);
+}
 /* contact us css */
 
 
